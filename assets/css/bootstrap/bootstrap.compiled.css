@@ -12684,3 +12684,19 @@ select.form-select.form-select-lg {
 .form-floating .form-control.form-control-lg {
   border-radius: 1.25rem;
 }
+
+.btn.btn-primary {
+  color: #ffffff;
+}
+.btn.btn-outline-primary:hover {
+  color: #ffffff;
+}
+
+.card .card-header h1, .card .card-header h2, .card .card-header h3, .card .card-header h4, .card .card-header h5, .card .card-header h6,
+.card .card-header .h1, .card .card-header .h2, .card .card-header .h3, .card .card-header .h4, .card .card-header .h5, .card .card-header .h6 {
+  font-weight: 500;
+}
+
+.accordion .accordion-header .accordion-button {
+  font-weight: 500;
+}
